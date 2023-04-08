@@ -1,4 +1,5 @@
--- Snake Game 🐍 --
+# -- Snake Game 🐍 --
+
 HTML: ✅
 
 JavaScript: ✅
